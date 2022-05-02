@@ -14,6 +14,8 @@ I also love to work in multiple frameworks like:
 -  Nuxt.js 
 -  Laravel
 -  Flutter
+-  Node.js
+-  React
 
 Take a look around at my repo's and maybe being able to learn something from it!
 If you want to contact me, you can e-mail me!
