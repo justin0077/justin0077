@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Justin van der Kwaak, 25 years old and Living in Leiden.
+- 👋 Hi, I’m Justin van der Kwaak, 26 years old and Living in The Netherlands.
 - 👀 I’m interested in all kinds of frameworks and programming languages.
 - 🌱 I’m trying to learn more about Css, Sass, Flutter, Nuxt.js and Node.js
 
-I am currently working as a front-end developer at Touch Creative B.V. in the Netherlands.
+I am currently working as a front-end developer at Touch Creative B.V. in Amsterdam.
 
 In my spare time I love to develop on all kinds of interesting projects. My passion is to develop websites and mobile/web applications.
 I love to work on different courses from Youtube and Udemy. When I work on these projects, I try to give my own twist to it. 
@@ -17,6 +17,6 @@ I also love to work in multiple frameworks like:
 -  Node.js
 -  React
 
-Take a look around at my repo's and maybe being able to learn something from it!
+Take a look around at my repo's!
 If you want to contact me, you can e-mail me!
 
